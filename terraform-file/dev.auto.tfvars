@@ -1,6 +1,6 @@
 mykey = "acloud-key"
-access_key = "AKIAQ5SNZ4EUCRUPBHWG"
-secret_key = "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"
+access_key = ""
+secret_key = ""
 region = "us-east-1"
 vpc_cidr = "10.0.0.0/16"
 subnet_cidr = {
